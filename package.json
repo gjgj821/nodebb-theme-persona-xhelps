@@ -1,5 +1,5 @@
 {
-  "name": "nodebb-theme-persona",
+  "name": "nodebb-theme-persona-xhelps",
   "version": "4.2.6",
   "nbbpm": {
     "compatibility": "^1.4.4"
@@ -8,7 +8,7 @@
   "main": "theme.less",
   "repository": {
     "type": "git",
-    "url": "https://github.com/psychobunny/nodebb-theme-persona"
+    "url": "https://github.com/gjgj821/nodebb-theme-persona-xhelps"
   },
   "keywords": [
     "nodebb",
@@ -19,23 +19,10 @@
   ],
   "contributors": [
     {
-      "name": "Andrew Rodrigues",
-      "email": "andrew@designcreateplay.com",
-      "url": "https://github.com/psychobunny"
-    },
-    {
-      "name": "Julian Lam",
-      "email": "julian@designcreateplay.com",
-      "url": "https://github.com/julianlam"
-    },
-    {
-      "name": "Barış Soner Uşaklı",
-      "email": "baris@designcreateplay.com",
-      "url": "https://github.com/barisusakli"
+      "name": "Go",
+      "email": "gaojie886@gmail.com",
+      "url": "https://github.com/gjgj821"
     }
   ],
-  "license": "BSD-2-Clause",
-  "bugs": {
-    "url": "https://github.com/psychobunny/nodebb-theme-persona/issues"
-  }
+  "license": "MIT"
 }
