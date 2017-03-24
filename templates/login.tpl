@@ -42,7 +42,11 @@
 					</div>
 				</div>
 			</form>
-
+			<div class="alt-login-block">
+				<ul class="alt-logins">
+					<li class=""><a rel="nofollow" target="_top" href="{config.master_url}"><i class="fa fa-home fa-3x"></i></a></li>
+				</ul>
+			</div>
 		</div>
 	</div>
 	<!-- ENDIF allowLocalLogin -->
