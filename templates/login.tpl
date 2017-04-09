@@ -45,12 +45,12 @@
 		</div>
 	</div>
 	<!-- ENDIF allowLocalLogin -->
-	<script>document.domain = window.location.host.slice(window.location.host.indexOf('.') + 1);</script>
+<script>document.domain = window.location.host.slice(window.location.host.indexOf('.') + 1);</script>
 	<div class="master-login col-md-6">
 		<iframe src="http://www.xhelps.com/sso-iframe.html" style="width:100%;height:362px;border:0;" />
 	</div>
 	<!-- IF alternate_logins -->
-	<div class="<!-- IF allowLocalLogin -->col-md-6<!-- ELSE -->col-md-12<!-- ENDIF allowLocalLogin -->">
+	<div class="<!-- IF allowLocalLogin -->col-md-6<!-- ELSE -->col-md-6<!-- ENDIF allowLocalLogin -->">
 		<div class="alt-login-block">
 			<h4>[[login:alternative_logins]]</h4>
 			<ul class="alt-logins">
